@@ -1,0 +1,29 @@
+## custom-config
+Clear Highlights                |<leader>ch
+New Vertical Split              |<leader>sv
+New Horizontal Split            |<leader>sh
+Equalize Split                  |<leader>se
+Close Current Split             |<leader>sx
+Open new Explorer Tab           |<leader>te
+Open new Fuzzy Tab              |<leader>tn
+Close Current Tab               |<leader>tx
+Go to Next Tab                  |<leader>tj
+Go to Previous Tab              |<leader>tk
+Go to First Tab                 |<leader>th
+Go to Last Tab                  |<leader>tl
+Open Explorer                   |<leader>pv
+Open File Fuzzy Finder          |<leader>ff
+Find String Current Directory   |<leader>fs
+Find String under Cursor in PWD |<leader>fc
+List available help tags        |<leader>fh
+List all git commits            |<leader>gc
+List git commits for cur File   |<leader>gfc
+List git branches               |<leader>gb
+List current branches per file  |<leader>gs
+Coc Diagnostics                 |<leader>cd
+Coc go to definition            |<leader>gd
+Coc go to type definition       |<leader>gy
+Coc go to implementation        |<leader>gi
+Coc go to reference             |<leader>gr
+Toggle Term                     |<leader>tt
+

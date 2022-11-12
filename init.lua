@@ -1,0 +1,10 @@
+require("besmith.plugins-setup")
+require("besmith.core.options")
+require("besmith.core.keymaps")
+require("besmith.core.colorscheme")
+require("besmith.plugins.telescope")
+require("besmith.plugins.lualine")
+require("besmith.plugins.coc")
+require("besmith.plugins.treesitter")
+require("besmith.plugins.toggleterm")
+
