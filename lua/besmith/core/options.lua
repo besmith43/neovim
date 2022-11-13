@@ -20,6 +20,9 @@ opt.smartcase = true
 -- cursor line
 opt.cursorline = true
 
+-- insert cursor to block
+opt.guicursor =  "i:block"
+
 -- appearance
 opt.termguicolors = true
 opt.background = "dark"
